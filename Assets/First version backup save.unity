@@ -569,7 +569,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.26000002, y: 0.1082963}
   m_AnchorMax: {x: 0.6873334, y: 0.31218523}
-  m_AnchoredPosition: {x: 532, y: 58.517944}
+  m_AnchoredPosition: {x: 532, y: 58.518}
   m_SizeDelta: {x: -132.1367, y: 117.0354}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &74487931
@@ -3195,7 +3195,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.045395833, y: 0.5458149}
   m_AnchorMax: {x: 0.9514792, y: 0.9481852}
-  m_AnchoredPosition: {x: 28.595947, y: 166.38953}
+  m_AnchoredPosition: {x: 28.596, y: 166.3895}
   m_SizeDelta: {x: 57.192, y: -332.7788}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &373681598
@@ -3218,7 +3218,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Why is Homelessness a problem?
+  m_text: Why is homelessness a problem?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3329,7 +3329,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.045395833, y: 0.5458149}
   m_AnchorMax: {x: 0.9514792, y: 0.9481852}
-  m_AnchoredPosition: {x: 28.27246, y: 188}
+  m_AnchoredPosition: {x: 28.272522, y: 188}
   m_SizeDelta: {x: 31.4142, y: -314.1376}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &441768588
@@ -4095,7 +4095,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 12, y: 50.399902}
+  m_AnchoredPosition: {x: 12, y: 50.399963}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &513922213
@@ -4132,7 +4132,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.13768595, y: 0.052176517}
   m_AnchorMax: {x: 1, y: 0.8372172}
-  m_AnchoredPosition: {x: -50.974976, y: 8.82309}
+  m_AnchoredPosition: {x: -50.975, y: 8.8231}
   m_SizeDelta: {x: 87.915, y: 81.057}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &513922215
@@ -4840,7 +4840,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &681147087
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5304,7 +5304,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5411666, y: 0.112}
   m_AnchorMax: {x: 0.91841656, y: 0.44451854}
-  m_AnchoredPosition: {x: 260, y: -27.08606}
+  m_AnchoredPosition: {x: 260, y: -27.086}
   m_SizeDelta: {x: -286.1677, y: -54.173}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &730217762
@@ -5428,7 +5428,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &734494582
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5844,7 +5844,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.13768595, y: 0.13439143}
   m_AnchorMax: {x: 0.8897852, y: 0.8372172}
-  m_AnchoredPosition: {x: -8.770508, y: 5.3529053}
+  m_AnchoredPosition: {x: -8.770477, y: 5.3529053}
   m_SizeDelta: {x: 158.29, y: 112.06}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &883587562
@@ -6313,7 +6313,7 @@ MonoBehaviour:
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 300
-  m_fontStyle: 32
+  m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -6391,7 +6391,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.045395833, y: 0.5458149}
   m_AnchorMax: {x: 0.9514792, y: 0.9481852}
-  m_AnchoredPosition: {x: 26.42749, y: 173.94006}
+  m_AnchoredPosition: {x: 26.42743, y: 173.9401}
   m_SizeDelta: {x: 52.8549, y: -347.8801}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &962295057
@@ -6414,7 +6414,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Should we provide a place for Homeless to stay?
+  m_text: Should we provide a place for homeless to stay?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6639,7 +6639,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.13768595, y: 0.13439143}
   m_AnchorMax: {x: 0.8897852, y: 0.8372172}
-  m_AnchoredPosition: {x: -8.770569, y: 5.3529053}
+  m_AnchoredPosition: {x: -8.770599, y: 5.3529053}
   m_SizeDelta: {x: 158.29, y: 112.06}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &987858068
@@ -7327,7 +7327,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: How could you fail such a easy question? You know nothing about homeless!
+  m_text: How could you fail such a easy quetion? You know nothing about homeless!
     GAME OVER!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7439,7 +7439,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.045395833, y: 0.5458149}
   m_AnchorMax: {x: 0.9514792, y: 0.9481852}
-  m_AnchoredPosition: {x: 16.989014, y: 143.73755}
+  m_AnchoredPosition: {x: 16.989075, y: 143.73752}
   m_SizeDelta: {x: 33.9781, y: -287.4749}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1089719320
@@ -8114,7 +8114,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.045395833, y: 0.5458149}
   m_AnchorMax: {x: 0.9514792, y: 0.9481852}
-  m_AnchoredPosition: {x: 24.050049, y: 161}
+  m_AnchoredPosition: {x: 24.05, y: 161}
   m_SizeDelta: {x: 138.2206, y: -247.5355}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1169062533
@@ -9996,7 +9996,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.045395833, y: 0.5458149}
   m_AnchorMax: {x: 0.9514792, y: 0.9481852}
-  m_AnchoredPosition: {x: 18.848389, y: 128.47986}
+  m_AnchoredPosition: {x: 18.848328, y: 128.47989}
   m_SizeDelta: {x: 37.6965, y: -256.9596}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1678354047
@@ -10275,7 +10275,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.13768595, y: 0.13439143}
   m_AnchorMax: {x: 0.8897852, y: 0.8372172}
-  m_AnchoredPosition: {x: -8.77066, y: 5.3529053}
+  m_AnchoredPosition: {x: -8.77063, y: 5.3529053}
   m_SizeDelta: {x: 158.29, y: 112.06}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1727360197
@@ -10705,7 +10705,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.045395833, y: 0.5458149}
   m_AnchorMax: {x: 0.9514792, y: 0.9481852}
-  m_AnchoredPosition: {x: 0, y: 127}
+  m_AnchoredPosition: {x: -0.000061035156, y: 127}
   m_SizeDelta: {x: 0, y: -287.4748}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1774193983
@@ -12202,7 +12202,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.045395833, y: 0.5458149}
   m_AnchorMax: {x: 0.9514792, y: 0.9481852}
-  m_AnchoredPosition: {x: 12.56543, y: 164.60571}
+  m_AnchoredPosition: {x: 12.565491, y: 164.60571}
   m_SizeDelta: {x: 25.131, y: -329.2114}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1886833041
@@ -12481,7 +12481,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.045395833, y: 0.5458149}
   m_AnchorMax: {x: 0.9514792, y: 0.9481852}
-  m_AnchoredPosition: {x: 17.277588, y: 169.31775}
+  m_AnchoredPosition: {x: 17.277527, y: 169.31772}
   m_SizeDelta: {x: 34.5551, y: -338.6354}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1915205080
@@ -13724,7 +13724,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.13768595, y: 0.13439143}
   m_AnchorMax: {x: 0.8897852, y: 0.8372172}
-  m_AnchoredPosition: {x: -6.0183105, y: 4.328888}
+  m_AnchoredPosition: {x: -6.0183, y: 4.3289}
   m_SizeDelta: {x: 136.21, y: 70.5313}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2103272336
